@@ -84,7 +84,7 @@ Para utilizar os endpoints protegidos, siga os passos:
 
 1. **Execute a aplicação**:
     ```bash
-    uvicorn main:app --reload
+    uvicorn src.main:app --reload
     ```
 
 2. Acesse a documentação da API em:
